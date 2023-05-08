@@ -1,6 +1,6 @@
 # Preview Url
 
-Live Preview [Preview Url](https://kmusic.surge.sh).
+Live Preview [kmusic.surge.sh](https://kmusic.surge.sh).
 
 # Getting Started with Create React App
 
